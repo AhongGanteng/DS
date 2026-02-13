@@ -1,7 +1,8 @@
 package sdl;
 public class SDL {
     public static void main(String[] args) {
-        System.out.println("Hello cantik");
+        System.out.println("Hello");
         System.out.println("This is my bini");
+        System.out.println("Iuno");
     }
 }
